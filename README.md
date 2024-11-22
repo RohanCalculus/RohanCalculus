@@ -14,4 +14,4 @@ Feel free to check my love for ML and Astronomy via my github repos! ^^
 * Applying data science techniques to astronomical datasets.  
 
 ### Let’s collaborate! Shall we?
-* If you liked my work and want to work with me in the field of Machine Learning, Data Science, Data Anaysis or Astronomy, I am just a [text](https://wa.me/919426116018) away! 
+* Want to work with me in the field of Machine Learning, Data Science, Data Anaysis or Astronomy, I am just a [text](https://wa.me/919426116018) away! 
